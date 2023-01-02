@@ -7,3 +7,5 @@ The software has been designed as a framework, and thus tools can be added to bo
 ![image](https://user-images.githubusercontent.com/57272355/210282785-d876f32f-e3cb-4444-89c0-ba0149f6202c.png)
 
 
+
+![image](https://user-images.githubusercontent.com/57272355/210283084-1c4b7d3c-eebc-4aeb-b88d-6fcd6e7f1b7e.png)
